@@ -1,5 +1,5 @@
-#ifndef PRODUCT_HPP
-#define PRODUCT_HPP
+#ifndef OBI_HPP
+#define OBI_HPP
 
 #include <iostream>
 #include <string>
