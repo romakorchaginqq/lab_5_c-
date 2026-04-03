@@ -1,4 +1,4 @@
-#include "../include/Product.hpp"
+#include "../include/OBI.hpp"
 
 namespace ProductDB {
 
